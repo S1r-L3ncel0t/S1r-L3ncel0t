@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @S1r-L3ncel0t
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently a junior C# Consultant
 - 💞️ I’m looking to collaborate on different kinds of projects
 - 📫 How to reach me, send an eagle
 
